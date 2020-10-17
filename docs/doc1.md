@@ -1,8 +1,7 @@
 ---
 id: doc1
-title: Introduction
-sidebar_label: Style Guide
-slug: /
+title: Doc 1
+sidebar_label: Introduction
 ---
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
@@ -10,7 +9,6 @@ You can write content using [GitHub-flavored Markdown syntax](https://github.git
 ## Markdown Syntax
 
 To serve as an example page when styling markdown based Docusaurus sites.
-
 ## Headers
 
 # H1 - Create the best documentation

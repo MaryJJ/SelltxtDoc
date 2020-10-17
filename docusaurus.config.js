@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://selltxtwebappdev.azurewebsites.net/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo-icon.png',
   organizationName: 'MaryJJ', // Usually your GitHub org/user name.
   projectName: 'SelltxtDoc', // Usually your repo name.
   themeConfig: {

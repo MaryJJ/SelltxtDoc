@@ -12,8 +12,7 @@ const features = [
     imageUrl: '',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Our system will allow us to invite potential customers to register on the platform. <a href="docs/invite">Read more...</a>
       </>
     ),
   },
@@ -22,18 +21,16 @@ const features = [
     imageUrl: '',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Business owners on our platform will be able to create and distribute offers of their products via sms. <a href="docs/create-offer">Read more...</a> 
       </>
     ),
   },
   {
     title: 'Send or schedule offers',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    imageUrl: '',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Our system allows you to send offers or schedule them for a specific date.  <a href="docs/send-offer">Read more...</a>
       </>
     ),
   },
